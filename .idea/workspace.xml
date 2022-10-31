@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c60a6dca-b70c-48e4-994e-5a7e6545b1c2" name="Changes" comment="cool">
+    <list default="true" id="c60a6dca-b70c-48e4-994e-5a7e6545b1c2" name="Changes" comment="M4st3rCod3">
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,20 @@
     "settings.editor.selected.configurable": "preferences.language.Kotlin"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="HelloWorld" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1667201458090</updated>
-      <workItem from="1667201460502" duration="801000" />
+      <workItem from="1667201460502" duration="1111000" />
     </task>
     <task id="LOCAL-00001" summary="cool">
       <created>1667201631119</created>
@@ -63,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667202127066</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="M4st3rCod3">
+      <created>1667202331600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667202331600</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +103,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="cool" />
-    <option name="LAST_COMMIT_MESSAGE" value="cool" />
+    <MESSAGE value="M4st3rCod3" />
+    <option name="LAST_COMMIT_MESSAGE" value="M4st3rCod3" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
